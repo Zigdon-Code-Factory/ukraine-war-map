@@ -3161,7 +3161,7 @@
     "side": "iran",
     "title": "Iranian missile kills 3 Palestinians in West Bank",
     "detail": "Iranian missile attack killed at least 3 and injured several in the Israeli-occupied West Bank — the first Iranian strike to kill Palestinians in the West Bank since the war began.",
-    "lat": 32,
+    "lat": 32.0,
     "lng": 35.2,
     "tid": "west-bank",
     "tn": "West Bank",
@@ -3225,7 +3225,7 @@
     "title": "Five Iranian missile salvos target Jerusalem and northern Israel",
     "detail": "Iran launched five ballistic missile salvos targeting Jerusalem and northern Israel within one hour. Sirens sounded across northern Israel and Jerusalem. Cluster munitions struck Haifa, with burning fragments crashing into the city. A missile fragment lodged in the Golan Heights.",
     "lat": 32.78,
-    "lng": 35,
+    "lng": 35.0,
     "tid": "haifa-refinery",
     "tn": "Haifa / Northern Israel",
     "dmg": 30,
@@ -3325,7 +3325,7 @@
     "title": "IDF hits 130+ targets in western and central Iran",
     "detail": "IDF reported striking over 130 targets across western and central Iran over the past day, including IRGC missile sites near Borazjan (Bushehr Province) and the Shahroud Missile Facility launch pad in Semnan Province. Combined force has now destroyed ~85% of Iran's surface-to-air missiles.",
     "lat": 33.5,
-    "lng": 51,
+    "lng": 51.0,
     "tid": "iran-wide-strikes",
     "tn": "Western & Central Iran",
     "dmg": 60,
@@ -3488,7 +3488,7 @@
     "title": "IDF strikes 130+ targets across Iran",
     "detail": "IDF targeted more than 130 regime infrastructures including ballistic missile launchers, UAVs, and air defense systems across Tehran, Parchin, Kerman, Arak, and Bandar Lengeh. Additional strikes reported in Yazd, Borazjan, Hormozgan, and Ahvaz.",
     "lat": 35.24,
-    "lng": 52,
+    "lng": 52.0,
     "tid": "parchin-complex",
     "tn": "Parchin / Multiple Sites",
     "dmg": 60,
@@ -3517,7 +3517,7 @@
     "title": "US F-35 hit by anti-aircraft fire, emergency landing",
     "detail": "A US Air Force F-35 fighter jet was forced to make an emergency landing at an American base in the Middle East after being hit by anti-aircraft fire during a mission over Iran.",
     "lat": 32.4,
-    "lng": 45,
+    "lng": 45.0,
     "tid": "f35-incident",
     "tn": "Over Iran / US Base",
     "dmg": 10,
@@ -4095,8 +4095,8 @@
     "side": "iran",
     "title": "Iran threatens to mine entire Persian Gulf if coasts attacked",
     "detail": "Iran's Defence Council warned that any attack on Iran's southern coast or islands would trigger mine-laying across all Gulf routes with \"various types of sea mines, including floating mines released from the coast.\" Said entire Gulf would be in situation similar to Strait of Hormuz \"for a long time.\" US reportedly considering plans to occupy or blockade Kharg Island, Iran's main oil export hub.",
-    "lat": 27,
-    "lng": 52,
+    "lat": 27.0,
+    "lng": 52.0,
     "tid": "persian-gulf",
     "tn": "Persian Gulf",
     "dmg": 0,
@@ -4292,7 +4292,7 @@
     "title": "Hezbollah fires 30 rockets at Haifa Bay area",
     "detail": "Hezbollah launched a barrage of approximately 30 rockets from Lebanon targeting the Haifa Bay area. Most rockets intercepted by air defenses. Sirens sounded in Acre and Krayot suburbs. No injuries reported.",
     "lat": 32.82,
-    "lng": 35,
+    "lng": 35.0,
     "tid": "haifa",
     "tn": "Haifa Bay",
     "dmg": 5,
@@ -4526,7 +4526,7 @@
     "title": "82nd Airborne deploying ~1,000 troops to Middle East",
     "detail": "Pentagon deploying approximately 1,000 troops from the 82nd Airborne Division's 1st Brigade Combat Team to the Middle East, including division commander Maj Gen Brandon Tegtmeier and staff. The unit is the Army's emergency response force.",
     "lat": 35.14,
-    "lng": -79,
+    "lng": -79.0,
     "tid": "fort-bragg-deploy",
     "tn": "Fort Bragg / Middle East",
     "dmg": 0,
@@ -4754,111 +4754,6 @@
       {
         "name": "The Hindu",
         "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-25-2026-highlights/article70782463.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "time": "morning",
-    "side": "israel-us",
-    "title": "Israel and US launch extensive strikes on central Isfahan",
-    "detail": "Israel announced extensive strikes on central Isfahan. Alongside US forces, Israel launched a wave of extensive strikes across Iran, targeting missile and drone production facilities, reportedly hitting two-thirds of capacities.",
-    "lat": 32.65,
-    "lng": 51.66,
-    "tid": "isfahan-strikes",
-    "tn": "Isfahan, Iran",
-    "dmg": 70,
-    "cas": 0,
-    "dl": "STRIKE — Extensive attacks on Isfahan facilities",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "time": "morning",
-    "side": "iran-allies",
-    "title": "Saudi Arabia intercepts drones targeting Eastern Province",
-    "detail": "Saudi Arabia’s Defence Ministry announced the interception and destruction of at least two dozen drones targeting the Eastern Province, home to the majority of the kingdom’s oil facilities.",
-    "lat": 26.28,
-    "lng": 50.2,
-    "tid": "saudi-drones-intercepted",
-    "tn": "Eastern Province, Saudi Arabia",
-    "dmg": 5,
-    "cas": 0,
-    "dl": "INTERCEPTION — Drones targeting oil facilities destroyed",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "time": "morning",
-    "side": "iran-allies",
-    "title": "Wave of Iranian missiles target Israel",
-    "detail": "Israel reported a wave of missiles from Iran heading towards central and northern Israel, marking the second salvo in less than 30 minutes, alongside volleys of rockets from Hezbollah into the Western Galilee region.",
-    "lat": 32.8,
-    "lng": 35,
-    "tid": "israel-missiles-salvo",
-    "tn": "Central and Northern Israel",
-    "dmg": 20,
-    "cas": 0,
-    "dl": "STRIKE — Iranian missiles and Hezbollah rockets fired",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "time": "afternoon",
-    "side": "economic",
-    "title": "Iran plans tolls for Strait of Hormuz",
-    "detail": "The Iranian parliament is preparing a draft law that would mandate the collection of tolls and duties from ships and tankers transiting the Strait of Hormuz, treating the critical waterway like a standard transit corridor.",
-    "lat": 26.56,
-    "lng": 56.25,
-    "tid": "hormuz-tolls-law",
-    "tn": "Strait of Hormuz",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "ECONOMIC — Tolls planned for Strait of Hormuz",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks"
-      }
-    ]
-  },
-  {
-    "date": "2026-03-26",
-    "time": "morning",
-    "side": "iran-allies",
-    "title": "Kuwait uncovers Hezbollah assassination plot",
-    "detail": "Kuwait’s Interior Ministry announced the arrest of six individuals allegedly linked to Hezbollah, accused of planning assassinations within the Gulf state.",
-    "lat": 29.37,
-    "lng": 47.97,
-    "tid": "kuwait-hezbollah-plot",
-    "tn": "Kuwait City, Kuwait",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "SECURITY — Hezbollah assassination plot thwarted",
-    "dc": "dmg-none",
-    "sources": [
-      {
-        "name": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks"
       }
     ]
   }
