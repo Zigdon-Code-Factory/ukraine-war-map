@@ -1074,6 +1074,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-04",
         "description": "Capsized ship at Konarak Naval Base"
+      },
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-31-2026/",
+        "source": "Commercial satellite imagery (via ISW)",
+        "captureDate": "2026-03-30",
+        "description": "Extensive damage at Iran Shipbuilding and Offshore Industries Complex (ISOICO) west of Bandar Abbas, a subsidiary of Iran's defense industrial organization"
       }
     ]
   },
@@ -2904,6 +2910,14 @@
       {
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://www.foxnews.com/politics/new-satellite-images-reveal-fires-damage-iranian-naval-bases-after-us-israeli-strikes",
+        "source": "Vantor",
+        "captureDate": "2026-03-06",
+        "description": "Before-and-after satellite imagery showing damage to aircraft on tarmac at Shiraz air base, with scorch marks and debris around parking areas"
       }
     ]
   },
@@ -5808,6 +5822,14 @@
         "name": "The Hindu",
         "url": "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-30-2026/article70801564.ece"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/",
+        "source": "Commercial satellite imagery (via ISW)",
+        "captureDate": "2026-03-30",
+        "description": "Damage visible at Tabriz Oil Refinery in East Azerbaijan Province after combined force strikes"
+      }
     ]
   },
   {
@@ -6100,6 +6122,14 @@
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/",
+        "source": "Commercial satellite imagery (via ISW)",
+        "captureDate": "2026-03-30",
+        "description": "Destroyed air defense site in Nowshahr, Mazandaran Province near Caspian Sea coast"
+      }
     ]
   },
   {
@@ -6128,6 +6158,12 @@
         "source": "Vantor",
         "captureDate": "2026-03-14",
         "description": "WashPost analysis: 19 structures struck at Hakimiyeh Military Complex, a liquid propellant and missile launcher production facility in Tehran"
+      },
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/",
+        "source": "Commercial satellite imagery (via ISW)",
+        "captureDate": "2026-03-17",
+        "description": "Damage to Saba Battery warehouse in Pasargad Industrial Zone, Tehran; a DIO subsidiary producing missile components"
       }
     ]
   },
@@ -6174,6 +6210,14 @@
       {
         "name": "ISW",
         "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/"
+      }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-march-30-2026/",
+        "source": "Commercial satellite imagery (via ISW)",
+        "captureDate": "2026-03-30",
+        "description": "Damage at 2nd Tactical Airbase in Tabriz housing MiG-29 and F-5 aircraft; base struck for third time in the war"
       }
     ]
   },
