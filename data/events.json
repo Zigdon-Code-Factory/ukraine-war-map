@@ -3253,6 +3253,14 @@
         "name": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/3/18/iran-war-what-is-happening-on-day-19-of-us-israel-attacks"
       }
+    ],
+    "satelliteImages": [
+      {
+        "url": "https://isis-online.org/isis-reports/impact-site-identified-near-the-iranian-bushehr-nuclear-power-plant",
+        "source": "Airbus Pléiades Neo (via ISIS)",
+        "captureDate": "2026-03-18",
+        "description": "High-resolution Airbus imagery confirmed a projectile impact crater about 350 meters from the Bushehr reactor, with no damage to the reactor itself."
+      }
     ]
   },
   {
