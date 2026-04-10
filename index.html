@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>2026 Iran War - Strike Map</title>
+<title>Russia-Ukraine War - Interactive Map</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -214,7 +214,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
 <div id="app" style="display:none">
   <div id="timeline">
     <div id="timeline-header">
-      <h2>⚔️ 2026 Iran War — Strike Timeline</h2>
+      <h2>⚔️ Russia-Ukraine War — Timeline</h2>
       <div id="data-info"></div>
       <div id="playback">
         <button onclick="goFirst()">⏮</button>
@@ -232,10 +232,10 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
         <button class="filter-btn" data-days="7" onclick="setDayFilter(7)">7d</button>
       </div>
       <div class="filter-row">
-        <button class="filter-btn us active" onclick="toggleFilter('us')"><img src="https://flagcdn.com/w20/us.png" style="width:14px;height:10px;vertical-align:middle;margin-right:2px;"> US</button>
-        <button class="filter-btn iran active" onclick="toggleFilter('iran')"><img src="https://flagcdn.com/w20/ir.png" style="width:14px;height:10px;vertical-align:middle;margin-right:2px;"> Iran</button>
-        <button class="filter-btn israel active" onclick="toggleFilter('israel')"><img src="https://flagcdn.com/w20/il.png" style="width:14px;height:10px;vertical-align:middle;margin-right:2px;"> Israel</button>
-        <button class="filter-btn active" data-filter="other" onclick="toggleFilter('other')">⚡ Other</button>
+        <button class="filter-btn us active" onclick="toggleFilter('us')"><img src="https://flagcdn.com/w20/ua.png" style="width:14px;height:10px;vertical-align:middle;margin-right:2px;"> Ukraine</button>
+        <button class="filter-btn iran active" onclick="toggleFilter('iran')"><img src="https://flagcdn.com/w20/ru.png" style="width:14px;height:10px;vertical-align:middle;margin-right:2px;"> Russia</button>
+        <button class="filter-btn israel active" onclick="toggleFilter('israel')"><img src="https://flagcdn.com/w20/eu.png" style="width:14px;height:10px;vertical-align:middle;margin-right:2px;"> West</button>
+        <button class="filter-btn active" data-filter="other" onclick="toggleFilter('other')">⚔️ Front</button>
       </div>
       <div id="snapshot-picker"></div>
     </div>
@@ -245,10 +245,10 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
   <div id="map-container">
     <div id="map"></div>
     <div id="stats">
-      <div class="stat-item stat-us"><div class="stat-value" id="us-strikes">0</div><div class="stat-sub" id="us-cas">0 killed</div><div class="stat-label"><img src="https://flagcdn.com/w20/us.png" style="width:12px;height:8px;vertical-align:middle;"> US</div></div>
-      <div class="stat-item stat-israel"><div class="stat-value" id="isr-strikes">0</div><div class="stat-sub" id="isr-cas">0 killed</div><div class="stat-label"><img src="https://flagcdn.com/w20/il.png" style="width:12px;height:8px;vertical-align:middle;"> Israel</div></div>
-      <div class="stat-item stat-iran"><div class="stat-value" id="iran-strikes">0</div><div class="stat-sub" id="iran-cas">0 killed</div><div class="stat-label"><img src="https://flagcdn.com/w20/ir.png" style="width:12px;height:8px;vertical-align:middle;"> Iran</div></div>
-      <div class="stat-item stat-other" style="position:relative;"><div class="stat-value" id="other-strikes">0</div><div class="stat-sub" id="other-cas">0 killed</div><div class="stat-label">⚡ Other</div><div id="other-tooltip"></div></div>
+      <div class="stat-item stat-us"><div class="stat-value" id="us-strikes">0</div><div class="stat-sub" id="us-cas">0 killed</div><div class="stat-label"><img src="https://flagcdn.com/w20/ua.png" style="width:12px;height:8px;vertical-align:middle;"> UKR</div></div>
+      <div class="stat-item stat-israel"><div class="stat-value" id="isr-strikes">0</div><div class="stat-sub" id="isr-cas">0 killed</div><div class="stat-label"><img src="https://flagcdn.com/w20/eu.png" style="width:12px;height:8px;vertical-align:middle;"> WEST</div></div>
+      <div class="stat-item stat-iran"><div class="stat-value" id="iran-strikes">0</div><div class="stat-sub" id="iran-cas">0 killed</div><div class="stat-label"><img src="https://flagcdn.com/w20/ru.png" style="width:12px;height:8px;vertical-align:middle;"> RUS</div></div>
+      <div class="stat-item stat-other" style="position:relative;"><div class="stat-value" id="other-strikes">0</div><div class="stat-sub" id="other-cas">0 killed</div><div class="stat-label">⚔️ Front</div><div id="other-tooltip"></div></div>
       <div class="stat-item stat-casualties" style="border-left:1px solid #30363d;padding-left:12px;margin-left:4px;"><div class="stat-value" id="cas-count" style="color:#f87171;">0</div><div class="stat-sub" style="color:#f87171;">killed</div><div class="stat-label">Total</div></div>
     </div>
     <div id="damage-panel">
@@ -278,10 +278,10 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
     <div id="legend">
       <h3>Legend <button id="legend-mode-btn" onclick="toggleMarkerMode()">🏳️ Flags</button></h3>
       <div id="legend-items">
-        <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div> US Strike</div>
-        <div class="legend-item"><div class="legend-dot" style="background:#a855f7"></div> Israeli Strike</div>
-        <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Iranian Strike</div>
-        <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Other / Proxy</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div> Ukraine Strike</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#a855f7"></div> Western/Support Event</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Russian Strike</div>
+        <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Frontline / Other</div>
       </div>
       <div class="legend-item" style="margin-top:6px;font-size:10px;color:#8b949e;">◉ Pulsing = current event</div>
     </div>
@@ -307,7 +307,7 @@ body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0a0e17; colo
   </div>
 </div>
 <script>
-const map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 12 }).setView([32, 48], 5);
+const map = L.map('map', { zoomControl: true, minZoom: 3, maxZoom: 12 }).setView([49.0, 32.0], 6);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}@2x.png', {
   attribution: '© CartoDB © OSM', subdomains: 'abcd', maxZoom: 19, tileSize: 512, zoomOffset: -1
 }).addTo(map);
@@ -329,10 +329,10 @@ let currentTurn = -1, markers = [], playing = false, playInterval = null, flyOnN
 const colors = { us:'#3b82f6', iran:'#ef4444', israel:'#a855f7', other:'#f59e0b' };
 const tagClasses = { us:'tag-us', iran:'tag-iran', israel:'tag-israel', other:'tag-other' };
 const sideLabels = {
-  us:'<img src="https://flagcdn.com/w20/us.png" style="width:14px;height:10px;vertical-align:middle;"> US',
-  iran:'<img src="https://flagcdn.com/w20/ir.png" style="width:14px;height:10px;vertical-align:middle;"> IRAN',
-  israel:'<img src="https://flagcdn.com/w20/il.png" style="width:14px;height:10px;vertical-align:middle;"> ISR',
-  other:'⚡ OTHER'
+  us:'<img src="https://flagcdn.com/w20/ua.png" style="width:14px;height:10px;vertical-align:middle;"> UKR',
+  iran:'<img src="https://flagcdn.com/w20/ru.png" style="width:14px;height:10px;vertical-align:middle;"> RUS',
+  israel:'<img src="https://flagcdn.com/w20/eu.png" style="width:14px;height:10px;vertical-align:middle;"> WEST',
+  other:'⚔️ FRONT'
 };
 
 // Load events from external JSON
@@ -439,7 +439,7 @@ function render() {
   const otd = sideStats.other.details;
   const otRows = Object.entries(otd).sort((a,b)=>b[1].cas-a[1].cas).slice(0,10);
   document.getElementById('other-tooltip').innerHTML = otRows.length ?
-    '<div style="font-weight:600;color:#8b949e;margin-bottom:4px;">Other / Proxy Breakdown</div>' +
+    '<div style="font-weight:600;color:#8b949e;margin-bottom:4px;">Frontline / Other Breakdown</div>' +
     otRows.map(([k,v])=>`<div class="ot-row"><span>${k}</span><span class="ot-val">${v.cas>0?v.cas+' killed':''}${v.strikes>0?' ('+v.strikes+')':''}</span></div>`).join('') :
     '<div style="color:#4a5568;">No events yet</div>';
   markers.forEach(m=>map.removeLayer(m));markers=[];
@@ -496,17 +496,17 @@ function toggleMarkerMode() {
   if (markerMode === 'flags') {
     btn.textContent = '⬤ Dots';
     items.innerHTML = `
-      <div class="legend-item"><img src="${flagUrls.us}" style="width:20px;height:13px;border-radius:2px;"> US Strike</div>
-      <div class="legend-item"><img src="${flagUrls.israel}" style="width:20px;height:13px;border-radius:2px;"> Israeli Strike</div>
-      <div class="legend-item"><img src="${flagUrls.iran}" style="width:20px;height:13px;border-radius:2px;"> Iranian Strike</div>
-      <div class="legend-item"><img src="${flagUrls.other}" style="width:20px;height:13px;border-radius:2px;"> Other / Proxy</div>`;
+      <div class="legend-item"><img src="${flagUrls.us}" style="width:20px;height:13px;border-radius:2px;"> Ukraine Strike</div>
+      <div class="legend-item"><img src="${flagUrls.israel}" style="width:20px;height:13px;border-radius:2px;"> Western/Support Event</div>
+      <div class="legend-item"><img src="${flagUrls.iran}" style="width:20px;height:13px;border-radius:2px;"> Russian Strike</div>
+      <div class="legend-item"><img src="${flagUrls.other}" style="width:20px;height:13px;border-radius:2px;"> Frontline / Other</div>`;
   } else {
     btn.textContent = '🏳️ Flags';
     items.innerHTML = `
-      <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div> US Strike</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#a855f7"></div> Israeli Strike</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Iranian Strike</div>
-      <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Other / Proxy</div>`;
+      <div class="legend-item"><div class="legend-dot" style="background:#3b82f6"></div> Ukraine Strike</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#a855f7"></div> Western/Support Event</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Russian Strike</div>
+      <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Frontline / Other</div>`;
   }
   render();
 }
