@@ -653,26 +653,5 @@
         "url": "https://www.reuters.com/world/europe/three-injured-ukrainian-drone-attack-russias-kursk-region-governor-says-2026-04-11/"
       }
     ]
-  },
-  {
-    "date": "2026-04-12",
-    "time": "daytime",
-    "side": "other",
-    "title": "Orthodox Easter ceasefire collapses under widespread shelling and drone attacks",
-    "detail": "Russia and Ukraine accused each other of breaching the 32-hour Easter truce, but Ukrainian military reporting described thousands of Russian violations by the time the pause expired, including artillery fire, assault actions and attack-drone strikes across the front while civilians were reported hurt in Kharkiv region.",
-    "lat": 48.3794,
-    "lng": 31.1656,
-    "tid": "ukraine-ceasefire-collapse",
-    "tn": "Ukraine Frontwide",
-    "dmg": 25,
-    "cas": 3,
-    "dl": "MODERATE — Holiday truce broke down almost completely before expiry",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/russia-says-ukraine-is-violating-easter-truce-russian-news-agencies-report-2026-04-12/"
-      }
-    ]
   }
 ]
