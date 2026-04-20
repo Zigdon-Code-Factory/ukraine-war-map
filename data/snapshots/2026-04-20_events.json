@@ -1022,26 +1022,5 @@
         "url": "https://www.reuters.com/world/europe/ukraine-strikes-industrial-targets-volga-river-towns-samara-governor-says-2026-04-18/"
       }
     ]
-  },
-  {
-    "date": "2026-04-20",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit Tuapse port again, reigniting fires at a key Black Sea oil hub",
-    "detail": "A renewed Ukrainian drone attack struck Russia's Black Sea port of Tuapse only hours after an earlier blaze had been extinguished, killing at least one person, damaging transport infrastructure, and setting the port area on fire again. Reuters described Tuapse as a major oil product export hub and home to a Rosneft refinery, underscoring Kyiv's continuing campaign against Russian fuel and logistics infrastructure.",
-    "lat": 44.1053,
-    "lng": 39.0802,
-    "tid": "tuapse-port",
-    "tn": "Tuapse Port and Oil Infrastructure",
-    "dmg": 25,
-    "cas": 1,
-    "dl": "MODERATE — Follow-on strike re-hits a major Russian Black Sea export and refining node",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/ukrainian-drone-attack-russias-tuapse-port-kills-one-2026-04-20/"
-      }
-    ]
   }
 ]
