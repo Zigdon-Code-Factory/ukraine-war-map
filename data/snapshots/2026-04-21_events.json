@@ -1043,55 +1043,5 @@
         "url": "https://www.reuters.com/world/europe/ukrainian-drone-attack-russias-tuapse-port-kills-one-2026-04-20/"
       }
     ]
-  },
-  {
-    "date": "2026-04-21",
-    "time": "daytime",
-    "side": "other",
-    "title": "Russia says its forces are pressing into Kostiantynivka and closing on the Donbas fortress belt",
-    "detail": "Russia's top general Valery Gerasimov said Russian forces had seized 1,700 square km of Ukrainian territory since the start of 2026, were already fighting in parts of Kostiantynivka, and had moved to within roughly 7 to 12 km of Sloviansk and Kramatorsk. Reuters could not verify the battlefield claims, but the statement marked a significant Russian assertion of momentum against Ukraine's key Donbas defensive line.",
-    "lat": 48.5277,
-    "lng": 37.7069,
-    "tid": "kostiantynivka-fortress-belt",
-    "tn": "Kostiantynivka / Sloviansk-Kramatorsk Axis",
-    "dmg": 25,
-    "cas": 0,
-    "dl": "MODERATE — Russia claims new pressure on Ukraine's main Donbas defensive belt",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/russia-has-taken-1700-square-km-ukraine-this-year-top-general-says-2026-04-21/"
-      },
-      {
-        "name": "U.S. News / Reuters",
-        "url": "https://www.usnews.com/news/world/articles/2026-04-21/russia-has-taken-1-700-square-km-of-ukraine-this-year-top-general-says"
-      }
-    ]
-  },
-  {
-    "date": "2026-04-21",
-    "time": "daytime",
-    "side": "ukraine",
-    "title": "EU signals imminent approval of a 90 billion euro loan package for Ukraine",
-    "detail": "EU foreign policy chief Kaja Kallas said she expected positive decisions within a day on a 90 billion euro loan for Ukraine, while ministers also pushed forward work on a 20th sanctions package against Russia. The package would be a major financial and political reinforcement for Kyiv at a moment of acute wartime funding pressure.",
-    "lat": 49.6116,
-    "lng": 6.1319,
-    "tid": "luxembourg-eu-ukraine-loan",
-    "tn": "Luxembourg EU Foreign Ministers Meeting",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "LIGHT — Major EU financing package moves toward approval for Ukraine",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/eu-expects-positive-decisions-90-billion-euro-loan-ukraine-wednesday-2026-04-21/"
-      },
-      {
-        "name": "U.S. News / Reuters",
-        "url": "https://www.usnews.com/news/world/articles/2026-04-21/eu-expects-positive-decisions-on-90-billion-euro-loan-to-ukraine-on-wednesday"
-      }
-    ]
   }
 ]
