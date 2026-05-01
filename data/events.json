@@ -1550,6 +1550,31 @@
     ]
   },
   {
+    "date": "2026-04-30",
+    "time": "overnight",
+    "side": "other",
+    "title": "Russian drone attack on Odesa injures at least 20 and damages civilian sites",
+    "detail": "Russian drones struck Odesa overnight on April 30, hitting residential neighborhoods in several districts and injuring at least 20 civilians, including a 17-year-old boy; local officials said two victims were in intensive care. Fires broke out in damaged high-rise and five-story apartment buildings in Prymorskyi district, while a kindergarten, shopping center, hotel, administrative buildings, infrastructure facilities, warehouses, garages, buses, and passenger cars were also damaged. Ukraine's Air Force said the broader overnight attack involved one ballistic missile and 206 drones, with 172 drones downed or neutralized and 32 drones plus the missile hitting 22 locations.",
+    "lat": 46.4825,
+    "lng": 30.7233,
+    "tid": "odesa-overnight-drone-attack-2026-04-30",
+    "tn": "Odesa, Black Sea port city",
+    "dmg": 40,
+    "cas": 20,
+    "dl": "HEAVY — Residential districts, kindergarten, and infrastructure damaged; at least 20 injured",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/russian-drones-hit-residential-neighborhoods-in-odesa-overnight-at-least16-injured/"
+      },
+      {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/europe/russian-drones-strike-ukraines-odesa-overnight-wounding-18-officials-say-2026-04-30/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-01",
     "time": "daytime",
     "side": "other",
@@ -1646,6 +1671,31 @@
       {
         "name": "Ukrainska Pravda",
         "url": "https://www.pravda.com.ua/eng/news/2026/05/01/8032697/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "overnight",
+    "side": "ukraine",
+    "title": "Ukraine confirms Perm refinery damage and Buk-M3 strike in broader rear-area attack wave",
+    "detail": "Ukraine's General Staff said Defense Forces struck Russian military-economic and logistics targets around May 1, including renewed hits on Tuapse, confirmed damage to the AVT-4 primary oil-processing unit at the Perm refinery with a follow-on fire, and a Buk-M3 surface-to-air missile system near occupied Olkhovatka in Donetsk Oblast. The same strike wave also targeted ammunition depots near Rozdolne and Rovenky, a logistics warehouse near Melitopol, a UAV warehouse near Dalne in Belgorod Oblast, UAV control points in Zaporizhzhia and Donetsk sectors, and a command-observation post near Kairy in Kherson Oblast.",
+    "lat": 57.9996,
+    "lng": 56.2428,
+    "tid": "perm-refinery-bukm3-support-strikes-2026-05-01",
+    "tn": "Perm refinery and Russian rear-area support targets",
+    "dmg": 45,
+    "cas": 0,
+    "dl": "HEAVY — Refinery processing unit, air-defense asset, depots, and command/logistics nodes targeted",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4118688-general-staff-confirms-new-strikes-on-oil-refineries-in-tuapse-and-perm.html"
+      },
+      {
+        "name": "Ukraine General Staff",
+        "url": "https://www.facebook.com/GeneralStaff.ua/posts/pfbid0oNWihRLr74HMboRgHhLD6wBfnzs7g3ARWQwuGF3uX1fFULormWqrY4yGsqHEvPDsl"
       }
     ]
   }
