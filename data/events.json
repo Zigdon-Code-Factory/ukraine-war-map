@@ -1625,6 +1625,56 @@
     ]
   },
   {
+    "date": "2026-04-30",
+    "time": "evening",
+    "side": "ukraine",
+    "title": "Ukraine and European allies launch CORPUS defense-procurement coalition",
+    "detail": "Ukraine's Defense Procurement Agency launched CORPUS, the Coalition for Resilient Procurement and Unified Support, with procurement agencies from Finland, Italy, Norway, Sweden, and the United Kingdom. Officials said the coalition will begin with information-sharing and coordination between procurement bodies, with joint procurement mechanisms possible later; the launch also comes as Kyiv prepares a framework for limited Ukrainian arms exports, especially high-demand defense technologies such as drone interceptors.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "corpus-defense-procurement-coalition-launch-2026-04-30",
+    "tn": "Kyiv and European partner procurement agencies",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "LIGHT — New allied procurement-coordination channel supports Ukrainian arms production and possible exports",
+    "dc": "dmg-light",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/ukraine-launches-multinational-procurement-coalition-signaling-possible-path-to-arms-exports/"
+      },
+      {
+        "name": "Ukraine Defense Procurement Agency",
+        "url": "https://dot.gov.ua/page/ukrayina-ta-krayini-partneri-objednalis-v-koaliciiu-z-pitan-oboronnogo-zabezpecennia-corpus"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "time": "evening",
+    "side": "other",
+    "title": "Ukraine and European Parliament back international Russia-war reparations commission",
+    "detail": "Ukraine's parliament ratified the International Claims Commission, becoming the first country to approve the body meant to let victims seek compensation for damage caused by Russia's invasion. The European Parliament also voted for EU support for the claims commission and a special tribunal on the crime of aggression; 25 countries must sign off on the claims commission, while the Kyiv Independent reported that more than 45,000 damage claims have already been submitted to the existing register.",
+    "lat": 50.8503,
+    "lng": 4.3517,
+    "tid": "international-claims-commission-ukraine-eu-votes-2026-04-30",
+    "tn": "Brussels and Kyiv reparations diplomacy",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "LIGHT — Legal mechanism for Russian war-damage compensation advances in Kyiv and Brussels",
+    "dc": "dmg-light",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/kyiv-brussels-back-international-commission-on-russia-war-reparations/"
+      },
+      {
+        "name": "Iryna Mudra",
+        "url": "https://x.com/irynarmudra/status/2049825444233421054"
+      }
+    ]
+  },
+  {
     "date": "2026-05-01",
     "time": "daytime",
     "side": "other",
@@ -1871,6 +1921,31 @@
       {
         "name": "Zelensky Telegram",
         "url": "https://t.me/V_Zelenskiy_official/18844"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "evening",
+    "side": "other",
+    "title": "US 2027 defense budget proposal excludes Ukraine military aid, senator says",
+    "detail": "Independent Senator Angus King said President Donald Trump's proposed 2027 U.S. defense budget contains no military assistance for Ukraine. At a Senate Armed Services Committee hearing, Defense Secretary Pete Hegseth argued that European countries should lead funding because the threat is closer to them, while King warned that the United States had \"stepped back\" from an existential struggle for democracy as Russia benefits from weakened sanctions and higher oil revenues during the U.S.-Iran war.",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "tid": "us-2027-defense-budget-no-ukraine-aid-king-2026-05-01",
+    "tn": "Washington Ukraine-aid debate",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "MODERATE — Proposed U.S. defense budget omits Ukraine military aid as Europe is pressed to pay more",
+    "dc": "dmg-moderate",
+    "sources": [
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-polytics/4118808-trumps-proposed-2027-defense-budget-excludes-military-aid-to-ukraine-senator-king.html"
+      },
+      {
+        "name": "Senate Armed Services Committee",
+        "url": "https://www.youtube.com/watch?v=p6sx3j6KA9E"
       }
     ]
   }
