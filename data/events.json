@@ -1575,6 +1575,56 @@
     ]
   },
   {
+    "date": "2026-04-30",
+    "time": "daytime",
+    "side": "ukraine",
+    "title": "Ukrainian drones strike Russian BARS-Sarmat drone development complex",
+    "detail": "Ukraine's 413th \"Raid\" Regiment of the Unmanned Systems Forces reported on April 30 that Ukrainian drones struck the BARS-Sarmat Special Purpose Center in occupied Zaporizhzhia Oblast, a Russian complex used to develop drones, robotic systems, electronic warfare equipment, and command-and-communications gear. The regiment said multiple workshops used to equip and manufacture drones and unmanned ground vehicles were damaged; the exact timing and full extent of the strike were not immediately clear.",
+    "lat": 46.65,
+    "lng": 35.1,
+    "tid": "bars-sarmat-drone-development-complex-struck-2026-04-30",
+    "tn": "Occupied Zaporizhzhia Oblast, Sea of Azov area",
+    "dmg": 35,
+    "cas": 0,
+    "dl": "HEAVY — Workshops at Russian drone and robotic-systems complex damaged",
+    "dc": "dmg-heavy",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/military-releases-video-of-ukrainian-drones-striking-key-russian-drone-development-facility/"
+      },
+      {
+        "name": "413th Raid Regiment",
+        "url": "https://x.com/Raid_413/status/2049876933047971861"
+      }
+    ]
+  },
+  {
+    "date": "2026-04-30",
+    "time": "evening",
+    "side": "ukraine",
+    "title": "Ukraine orders 8,000 Octopus interceptor drones to strengthen air defense",
+    "detail": "Ukraine's Defense Ministry announced it is buying 8,000 Ukrainian-made Octopus interceptor drones for the Defense Forces to expand protection against Shahed-type strike drones. The ministry said the self-guided interceptors have shown consistent effectiveness in combat, can operate day or night at low altitude and under electronic warfare pressure, and are being scaled through 29 licensed Ukrainian companies with UK government participation; four manufacturers have already signed state contracts.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "octopus-interceptor-drone-procurement-8000-2026-04-30",
+    "tn": "Kyiv, Ukraine",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "LIGHT — 8,000 interceptor-drone procurement expands Shahed-defense capacity",
+    "dc": "dmg-light",
+    "sources": [
+      {
+        "name": "Ukraine Defense Ministry",
+        "url": "https://mod.gov.ua/news/minoboroni-zakupovuye-8-000-perehoplyuvachiv-octopus-dlya-sil-oboroni"
+      },
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/ukrainian-military-to-gain-8-000-octopus-interceptor-drones/"
+      }
+    ]
+  },
+  {
     "date": "2026-05-01",
     "time": "daytime",
     "side": "other",
@@ -1742,6 +1792,27 @@
       {
         "name": "Kyiv Independent",
         "url": "https://kyivindependent.com/lightweight-but-most-importantly-cheap-ukraines-new-midrange-drone-designed-to-exhaust-russian-airdefence/"
+      }
+    ]
+  },
+  {
+    "date": "2026-05-01",
+    "time": "daytime",
+    "side": "other",
+    "title": "US envoys' Kyiv visit stalls as Ukraine-Russia peace talks remain frozen",
+    "detail": "The Kyiv Independent reported that U.S. President Donald Trump's envoys Steve Witkoff and Jared Kushner are not rushing to visit Kyiv, despite months of discussion about a trip meant to restart trilateral diplomacy between Ukraine, Russia, and the United States. Ukrainian officials said talks have been frozen for over two months, Washington's focus has shifted toward Iran, and Russia continues demanding Ukrainian withdrawal from Kyiv-held parts of Donbas while Ukraine insists a ceasefire should be based on freezing the current front line; a U.S. official said the visit remains under discussion but is not confirmed.",
+    "lat": 50.4501,
+    "lng": 30.5234,
+    "tid": "us-envoys-kyiv-visit-stalls-peace-talks-frozen-2026-05-01",
+    "tn": "Kyiv-Washington-Moscow diplomacy",
+    "dmg": 0,
+    "cas": 0,
+    "dl": "LIGHT — Diplomatic reset delayed as peace-talk format remains stalled",
+    "dc": "dmg-light",
+    "sources": [
+      {
+        "name": "Kyiv Independent",
+        "url": "https://kyivindependent.com/heres-why-trumps-envoys-arent-going-to-ukraine/"
       }
     ]
   }
