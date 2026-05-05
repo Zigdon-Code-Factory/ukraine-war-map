@@ -233,5 +233,29 @@
     "label": "2026-05-01 — 64 events",
     "date": "2026-05-01",
     "eventCount": 64
+  },
+  {
+    "file": "2026-05-02_events.json",
+    "label": "2026-05-02 — 87 events",
+    "date": "2026-05-02",
+    "eventCount": 87
+  },
+  {
+    "file": "2026-05-03_events.json",
+    "label": "2026-05-03 — 89 events",
+    "date": "2026-05-03",
+    "eventCount": 89
+  },
+  {
+    "file": "2026-05-04_events.json",
+    "label": "2026-05-04 — 91 events",
+    "date": "2026-05-04",
+    "eventCount": 91
+  },
+  {
+    "file": "2026-05-05_events.json",
+    "label": "2026-05-05 — 95 events",
+    "date": "2026-05-05",
+    "eventCount": 95
   }
 ]
