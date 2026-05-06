@@ -2153,59 +2153,5 @@
         "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/05/russian-attacks-kill-22-as-ceasefire-proposed-by-kyiv-approaches"
       }
     ]
-  },
-  {
-    "date": "2026-05-06",
-    "time": "overnight and morning",
-    "side": "other",
-    "title": "Russia violates Ukraine's May 6 ceasefire with missiles, drones, and glide bombs",
-    "detail": "Hours after Kyiv's unilateral ceasefire was due to begin at midnight on May 6, Ukrainian officials said Russian attacks continued across the north, east, and south. Russia launched two Iskander-M ballistic missiles, one Kh-31 missile, and 108 drones from the evening of May 5 into the morning of May 6; Ukrainian air defenses reported shooting down or suppressing 89 drones. Strikes hit Kharkiv, Zaporizhzhia, Kryvyi Rih, Sumy, Dnipropetrovsk, Kherson, and other frontline areas, killing at least one civilian in Sumy and wounding several others while damaging homes, industrial infrastructure, and other facilities.",
-    "lat": 49.9935,
-    "lng": 36.2304,
-    "tid": "russia-violates-ukraine-may-6-ceasefire-drone-missile-strikes-2026-05-06",
-    "tn": "Kharkiv, Zaporizhzhia, Sumy, Kryvyi Rih, and wider Ukraine",
-    "dmg": 45,
-    "cas": 4,
-    "dl": "HEAVY — Missile, drone, and glide-bomb attacks continue despite Kyiv's ceasefire start",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters via Internazionale",
-        "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/05/06/ukraine-says-russia-violated-ceasefire-initiated-by-kyiv"
-      },
-      {
-        "name": "Kyiv Post",
-        "url": "https://www.kyivpost.com/post/75508"
-      },
-      {
-        "name": "United24 Media",
-        "url": "https://united24media.com/war-in-ukraine/russia-breaks-ceasefire-hours-after-it-began-with-drone-and-missile-attacks-18512"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-06",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukrainian drone attack hits Dzhankoi in occupied Crimea, Russian-installed officials say five killed",
-    "detail": "Russian-installed authorities in occupied Crimea said a Ukrainian drone attack struck Dzhankoi, a northern Crimean town that hosts a military airbase, late on May 5 into May 6. The Russian-appointed governor claimed five civilians were killed, while Russia's Defense Ministry said it intercepted 53 Ukrainian drones over Russian regions, occupied Crimea, and the Black Sea during the wider overnight barrage. The reported strike added to pressure around Moscow's Victory Day ceasefire claims and Ukraine's expanding deep-strike campaign.",
-    "lat": 45.7117,
-    "lng": 34.3927,
-    "tid": "dzhankoi-crimea-drone-strike-five-killed-2026-05-06",
-    "tn": "Dzhankoi, occupied Crimea",
-    "dmg": 30,
-    "cas": 5,
-    "dl": "MODERATE — Strike near Crimean airbase reported to cause five deaths amid wider drone barrage",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "The Moscow Times",
-        "url": "https://www.themoscowtimes.com/2026/05/06/ukrainian-attack-kills-5-in-annexed-crimea-as-kyiv-accuses-russia-of-violating-its-ceasefire-a92694"
-      },
-      {
-        "name": "TASS",
-        "url": "https://tass.com/politics/2126977"
-      }
-    ]
   }
 ]
