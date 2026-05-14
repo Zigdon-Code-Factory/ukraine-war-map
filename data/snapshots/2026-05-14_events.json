@@ -1955,7 +1955,7 @@
     "side": "other",
     "title": "ISW assesses Russia suffered first monthly net territorial loss since Kursk incursion",
     "detail": "The Institute for the Study of War assessed that Russian forces seized or infiltrated 28.28 square kilometers in April 2026 but suffered a net loss of 116 square kilometers overall, the first monthly reversal since Ukraine's Kursk incursion in August 2024. ISW said the pace of Russian advances had continued declining since late 2025 even as Moscow sustained offensive pressure across several sectors.",
-    "lat": 48,
+    "lat": 48.0,
     "lng": 37.8,
     "tid": "isw-april-net-territorial-loss-2026-05-02",
     "tn": "Ukraine front-wide territorial balance",
@@ -2497,8 +2497,8 @@
     "side": "other",
     "title": "Three-day ceasefire frays as Russian strikes kill 1 and injure 19 across Ukraine",
     "detail": "The U.S.-brokered May 9-11 ceasefire deteriorated on its first day as regional authorities reported Russian attacks across Ukraine killed at least one civilian and injured at least 19 over the prior day. Ukraine's Air Force said it intercepted all 27 Russian drones launched overnight from Primorsko-Akhtarsk and Millerovo, while officials reported injuries in Kharkiv, Dnipropetrovsk, Donetsk, Kherson, Zaporizhzhia, and Sumy oblasts; Zaporizhzhia authorities said Russian forces carried out 780 strikes on 33 settlements, and Ukraine's General Staff reported 147 combat clashes despite the truce.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "ceasefire-frays-russian-strikes-kill-injure-across-ukraine-2026-05-09",
     "tn": "Ukraine-wide ceasefire violations",
     "dmg": 45,
@@ -2576,8 +2576,8 @@
     "side": "other",
     "title": "US-brokered ceasefire comes under serious strain as Russia continues frontline attacks and drone strikes",
     "detail": "On the second day of the May 9-11 U.S.-mediated ceasefire, Ukrainian officials said Russia kept up assaults and drone attacks despite avoiding the largest missile-and-drone barrages. Reuters reported three people killed by Russian drone strikes in Zaporizhzhia, Dnipropetrovsk, and Kherson oblasts, eight wounded in Kharkiv Oblast, seven wounded in Kherson Oblast, and a rescue driver wounded in Dnipropetrovsk Oblast. Ukraine's General Staff reported nearly 210 combat clashes since early May 9, while Zelensky said Russian forces were not observing silence on the front; Russia accused Ukraine of violations and said it downed 57 Ukrainian drones.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "us-brokered-ceasefire-serious-strain-russian-attacks-2026-05-10",
     "tn": "Ukraine-wide ceasefire zone and frontline",
     "dmg": 50,
@@ -2651,8 +2651,8 @@
     "side": "other",
     "title": "May 9-11 ceasefire expires with 180 clashes and renewed accusations of violations",
     "detail": "As the U.S.-mediated May 9-11 ceasefire drew to a close, President Volodymyr Zelensky said there had been no silence on the front line and that Russia had no intention of ending the war. Reuters reported that both sides accused the other of drone, artillery, and battlefield violations; Ukraine's General Staff recorded 180 clashes over the previous 24 hours and 38 additional Russian assaults by Monday afternoon, while Ukrainian regional officials reported at least three civilians killed in Zaporizhzhia and Kherson oblasts. Russia's Defense Ministry claimed 23,802 Ukrainian ceasefire violations and said Russian troops responded in kind, while Belgorod officials said one person was killed and three wounded by a Ukrainian attack.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "may-9-11-ceasefire-expires-180-clashes-violations-2026-05-11",
     "tn": "Ukraine-wide frontline and border regions",
     "dmg": 35,
@@ -2850,114 +2850,6 @@
       {
         "name": "Ukrainska Pravda",
         "url": "https://www.pravda.com.ua/eng/news/2026/05/13/8034455/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "time": "overnight",
-    "side": "ukraine",
-    "title": "Ukraine hits Russian oil and gas infrastructure from the Black Sea to the Caspian",
-    "detail": "Ukraine's General Staff said Ukrainian forces struck the Tamanneftegaz oil terminal near the Black Sea port of Taman, primary oil-refining units at the Yaroslavl oil refinery, and infrastructure at the Astrakhan gas processing plant overnight on May 13, with fires reported at multiple sites. Kyiv Independent reported NASA FIRMS heat anomalies near Tamanneftegaz and said the terminal transships crude oil, fuel oil, diesel, and LPG, while ISW assessed the strikes as part of a widening Ukrainian campaign against Russian oil infrastructure and military logistics, including recent strikes as far as 1,500 kilometers from Ukraine.",
-    "lat": 45.119,
-    "lng": 36.716,
-    "tid": "ukraine-strikes-tamanneftegaz-yaroslavl-astrakhan-energy-sites-2026-05-13",
-    "tn": "Tamanneftegaz terminal, Yaroslavl oil refinery, and Astrakhan gas processing plant",
-    "dmg": 45,
-    "cas": 0,
-    "dl": "SIGNIFICANT — Ukrainian long-range strike wave hits multiple Russian energy export and processing facilities",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-may-13-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "time": "daytime and evening",
-    "side": "russia",
-    "title": "Russia launches prolonged daytime drone assault on western Ukraine, killing at least six",
-    "detail": "Russia fired hundreds of drones in waves through May 13, with President Volodymyr Zelensky saying at least 800 drones had been launched since midnight and Ukraine's Air Force later reporting 753 UAVs between 08:00 and 18:30, of which 710 were neutralized. Reuters reported that the attack targeted critical infrastructure in western regions near NATO borders, killed at least six people and wounded dozens, damaged Naftogaz facilities in Kharkiv and Zhytomyr regions, struck railway infrastructure 23 times, hit Ivano-Frankivsk housing, and cut power in Zhovkva. Poland scrambled fighters, Slovakia temporarily closed border crossings, Moldova reported a drone crossing its airspace, and Hungary summoned Russia's ambassador over attacks on areas with ethnic Hungarian communities.",
-    "lat": 49.8397,
-    "lng": 24.0297,
-    "tid": "russia-800-drone-daytime-assault-western-ukraine-nato-border-2026-05-13",
-    "tn": "Western and central Ukraine, including Rivne, Ivano-Frankivsk, Lviv/Zhovkva, Zhytomyr, Kharkiv, and railway infrastructure",
-    "dmg": 60,
-    "cas": 6,
-    "dl": "MAJOR — Prolonged drone assault targets western Ukrainian critical infrastructure and triggers NATO-border responses",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-warns-incoming-russian-drone-attacks-during-daylight-2026-05-13/"
-      },
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4122998-ukraines-air-defense-neutralizes-710-of-753-russian-drones-in-massive-daylong-attack.html"
-      },
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-may-13-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-13",
-    "time": "daytime",
-    "side": "russia",
-    "title": "Kremlin hardens territorial demands before negotiations despite stalled battlefield gains",
-    "detail": "ISW assessed that the Kremlin was doubling down on demands that Ukraine cease fire and withdraw from Russian-claimed Ukrainian oblasts as a precondition for renewed peace talks, after spokesman Dmitry Peskov said Ukraine must leave territories Moscow claims as its own. ISW cited Financial Times reporting that Putin may add further territorial demands in any future ceasefire, while noting that Russia's ambitions run counter to battlefield reality: ISW said Russian forces had advanced only 349.89 square kilometers in Donetsk Oblast since the start of 2026 and was no longer prepared to forecast whether Russia could seize the remaining Ukrainian-held Donetsk terrain at all. U.S. President Donald Trump said he had not agreed with Putin that Russia should acquire all of Donetsk and Luhansk.",
-    "lat": 55.7558,
-    "lng": 37.6173,
-    "tid": "kremlin-donbas-withdrawal-precondition-negotiations-stalled-gains-2026-05-13",
-    "tn": "Moscow negotiation demands and Donbas battlefield reality",
-    "dmg": 0,
-    "cas": 0,
-    "dl": "SIGNIFICANT — Moscow renews maximalist territorial preconditions as ISW says battlefield gains do not support them",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-may-13-2026/"
-      },
-      {
-        "name": "Kyiv Post",
-        "url": "https://www.kyivpost.com/post/76048"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-14",
-    "time": "overnight and morning",
-    "side": "russia",
-    "title": "Russia fires 675 drones and 56 missiles in largest wartime aerial assault, Kyiv main target",
-    "detail": "Russia followed the May 13 daytime drone waves with a combined overnight missile-and-drone barrage that Ukrainian officials described as the largest aerial attack over a two-day period since the full-scale war began. Ukraine's Air Force tracked 731 aerial threats, including 675 UAVs and 56 missiles, and said defenses shot down or suppressed 652 drones and 41 missiles, while 15 missiles and 23 drones hit 24 locations. Reuters and Ukrainian officials said Kyiv was the main target: at least three people were killed and about 40 wounded, an apartment building section collapsed, water supplies were disrupted, and damage was recorded at 20 locations in the city and nearby region. Officials also reported disruptions to electricity in 11 regions, strikes on Kremenchuk energy infrastructure, Odesa port infrastructure, and railway facilities, while morning drone strikes in Kharkiv injured 20 people.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "russia-675-drones-56-missiles-largest-aerial-assault-kyiv-2026-05-14",
-    "tn": "Kyiv and nationwide Ukrainian energy, port, railway, and urban infrastructure",
-    "dmg": 80,
-    "cas": 63,
-    "dl": "MAJOR — Largest two-day aerial assault of the war hits Kyiv, energy, port, rail, and urban infrastructure",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/"
-      },
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4123118-air-defense-neutralizes-41-missiles-652-drones-in-massive-overnight-attack-on-ukraine.html"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/explosions-rock-kyiv-as-russias-mass-daytime-drone-strike-becomes-large-scale-missile-attack/"
       }
     ]
   }
