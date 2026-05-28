@@ -3399,8 +3399,8 @@
     "side": "russia",
     "title": "Russia launches 209 drones across Ukraine, killing six and hitting Naftogaz gas infrastructure for third straight day",
     "detail": "Russian forces attacked Ukraine overnight on May 18-19 with 209 Shahed-type, Gerbera and Italmas loitering munitions and Parodiya decoys, Ukraine's Air Force said, with air defences destroying or suppressing 180 drones. Hits by 27 UAVs were recorded at 15 locations, while regional authorities reported at least six civilians killed and at least 34 injured over the preceding day. The strikes included multiple Naftogaz gas infrastructure facilities in Chernihiv Oblast, where the company said critically important production equipment was damaged and personnel were evacuated, continuing a third consecutive day of Russian attacks on the state oil and gas operator's facilities. Kherson, Kharkiv, Donetsk, Dnipropetrovsk, Sumy, Zaporizhzhia and Chernihiv oblasts also reported heavy shelling, drone strikes or civilian damage.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "russia-209-drone-attack-naftogaz-ukraine-2026-05-19",
     "tn": "Nationwide Ukraine attack, including Chernihiv gas infrastructure and multiple frontline oblasts",
     "dmg": 70,
@@ -3674,8 +3674,8 @@
     "side": "russia",
     "title": "Russia launches Iskander missile and 116 drones as strikes kill five and injure 41 across Ukraine",
     "detail": "Russian attacks over the previous day killed at least five people and injured 41 across Ukraine, the Kyiv Independent reported, citing local authorities. Ukraine's Air Force said Russia launched one Iskander-M ballistic missile and 116 drones overnight, with 109 drones intercepted; the missile and at least five drones struck five locations, with falling debris recorded at four more sites. In Chernihiv Oblast, a Geran long-range drone hit a farm bus in the Semenivka community, killing one agricultural worker and injuring two others, while additional drone strikes hit a farm warehouse and wounded a tractor driver. Donetsk, Kharkiv, Dnipropetrovsk, Sumy, Kherson and Zaporizhzhia oblasts also reported deaths, injuries, shelling, guided-bomb strikes or drone attacks.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "russia-iskander-116-drones-five-killed-ukraine-2026-05-21",
     "tn": "Nationwide Ukraine attacks, including Chernihiv, Donetsk, Kharkiv, Dnipropetrovsk, Sumy, Kherson and Zaporizhzhia oblasts",
     "dmg": 60,
@@ -3791,8 +3791,8 @@
     "side": "russia",
     "title": "Russia attacks Ukraine with 124 drones overnight; Ukraine says 115 neutralized",
     "detail": "Ukraine's Air Force said Russia launched 124 Shahed, Gerbera, Italmas and other attack or decoy drones at Ukraine overnight on May 22. Ukrainian air defenses, electronic-warfare units, mobile fire groups and UAV teams shot down or neutralized 115 drones, according to preliminary data. RBC-Ukraine reported seven Russian drone strikes at five locations, with debris from downed drones found in five more areas, and said the attack was still ongoing at the time of the report with several drones remaining in Ukrainian airspace.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "russia-124-drones-ukraine-115-neutralized-2026-05-22",
     "tn": "Nationwide Ukraine airspace and strike locations",
     "dmg": 45,
@@ -3916,8 +3916,8 @@
     "side": "russia",
     "title": "Russian attacks kill five and injure 62 across Ukraine as 124-drone wave hits nine locations",
     "detail": "Russian attacks across Ukraine killed at least five people and injured at least 62 over the previous day, the Kyiv Independent reported May 23, citing local authorities. Ukraine's Air Force said Russia launched 124 strike and decoy drones overnight from multiple directions, including Shahed, Gerbera, Italmas and Parodiya-type drones; air defenses shot down or suppressed 102, while 12 strike drones hit nine locations and debris fell in five more. Kherson Oblast reported one killed and 20 injured as homes, a church and vehicles were damaged, while Kharkiv Oblast reported three killed and five injured, Zaporizhzhia one killed and two injured, Dnipropetrovsk 16 injured, Sumy 12 injured and Donetsk seven injured.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "russia-124-drones-five-killed-62-injured-ukraine-2026-05-23",
     "tn": "Nationwide Ukraine attacks, including Kherson, Kharkiv, Zaporizhzhia, Dnipropetrovsk, Sumy and Donetsk oblasts",
     "dmg": 65,
@@ -4091,8 +4091,8 @@
     "side": "russia",
     "title": "Russia launches 262-drone follow-on attack across Ukraine after massive Kyiv barrage; air defenses neutralize 246",
     "detail": "Russia followed its May 24 missile-and-drone barrage with another large overnight UAV attack beginning around 17:30 on May 24 and continuing into May 25. Ukraine's Air Force said Russian forces launched 262 strike and decoy drones, including Shahed-type UAVs, Gerbera, Italmas and Parodiya drones, from Oryol, Kursk, Shatalovo, Bryansk, Millerovo and Primorsko-Akhtarsk in Russia and Hvardiiske in occupied Crimea. Ukrainian aviation, air-defense missile units, electronic warfare teams, unmanned-systems forces and mobile fire groups shot down or suppressed 246 drones by 08:00 on May 25 across northern, southern and eastern Ukraine; 10 drones struck nine locations and debris fell in seven locations, with several drones still airborne when the report was issued.",
-    "lat": 49,
-    "lng": 32,
+    "lat": 49.0,
+    "lng": 32.0,
     "tid": "russia-262-drone-follow-on-attack-ukraine-air-defense-246-neutralized-2026-05-25",
     "tn": "Northern, southern and eastern Ukraine",
     "dmg": 45,
@@ -4333,8 +4333,8 @@
     "side": "russia",
     "title": "Russia launches 163-drone overnight attack across Ukraine; 150 intercepted or jammed",
     "detail": "Russia launched 163 Shahed-type, Gerbera, Italmas and Parodiya decoy drones from Kursk, Bryansk, Oryol, Millerovo and Shatalovo beginning on the evening of May 26. Ukraine's Air Force said air defenses, electronic warfare units, unmanned systems and mobile fire groups destroyed or jammed 150 drones by 08:30 on May 27, while eight strike UAVs hit seven locations and debris fell at four more; several drones remained in Ukrainian airspace during the morning update.",
-    "lat": 49,
-    "lng": 31,
+    "lat": 49.0,
+    "lng": 31.0,
     "tid": "russia-163-drone-attack-150-intercepted-ukraine-2026-05-27",
     "tn": "Multiple regions across Ukraine",
     "dmg": 40,
@@ -4420,144 +4420,6 @@
       {
         "name": "Ukrainska Pravda",
         "url": "https://www.pravda.com.ua/eng/news/2026/05/27/8036578/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "time": "assessment",
-    "side": "ukraine",
-    "title": "ISW says Ukraine's mid-range and frontline drone campaign is disrupting Russian logistics and fueling possible Russian export curbs",
-    "detail": "The Institute for the Study of War assessed on May 27 that Ukraine's intensified mid-range and frontline drone strike campaigns are limiting Russia's ability to move personnel to the front and sustain positions, including by degrading ground lines of communication such as the M-14 Rostov-Crimea highway and routes linking occupied southern Ukraine with Donetsk City. ISW also reported that Moscow was considering temporary restrictions on diesel and jet-fuel exports after months of Ukrainian strikes on Russian refineries, indicating Kyiv's strike campaign is imposing costs on Russia's fuel industry and forcing tradeoffs among domestic stability, military logistics and export revenue.",
-    "lat": 47.0971,
-    "lng": 37.5434,
-    "tid": "isw-ukrainian-drone-logistics-lockdown-russian-fuel-export-curbs-2026-05-27",
-    "tn": "Southern occupied Ukraine logistics routes and Russian fuel sector",
-    "dmg": 45,
-    "cas": 0,
-    "dl": "STRATEGIC — Ukrainian drone and refinery-strike campaigns increasingly pressure Russian logistics and fuel policy",
-    "dc": "dmg-significant",
-    "sources": [
-      {
-        "name": "Institute for the Study of War",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-may-27-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-27",
-    "time": "evening",
-    "side": "russia",
-    "title": "Russian MLRS strike on Kherson playground kills father and wounds mother and two young children",
-    "detail": "Russian forces struck a residential neighborhood in Kherson's Korabelnyi district with multiple-launch rocket systems on the evening of May 27, hitting a children's playground, according to local authorities cited by the Kyiv Independent. The strike killed a father at the scene and seriously wounded his wife and their two daughters, aged three and six; the three-year-old was reported in critical condition with blast and shrapnel wounds. The attack came amid wider Russian strikes across Ukraine that killed at least two people and injured 23 over the past day, including 12 wounded across Kherson Oblast and additional casualties in Donetsk, Dnipropetrovsk, Zaporizhzhia, Sumy and Kharkiv oblasts.",
-    "lat": 46.6354,
-    "lng": 32.6169,
-    "tid": "russian-mlrs-strike-kherson-playground-kills-father-wounds-family-2026-05-27",
-    "tn": "Korabelnyi district, Kherson, Ukraine",
-    "dmg": 50,
-    "cas": 4,
-    "dl": "SIGNIFICANT — Strike on playground kills one civilian and seriously wounds a family including two small children",
-    "dc": "dmg-significant",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attacks-kill-2-injure-23-across-ukraine-over-past-day-as-kherson-strike-devastates-family/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "time": "overnight",
-    "side": "russia",
-    "title": "Russia attacks Ukraine with Kinzhal missile and 147 drones; Ukraine says 138 drones destroyed or jammed",
-    "detail": "Russia launched a Kinzhal air-launched ballistic missile from Lipetsk Oblast and 147 drones overnight on May 27-28, including Shahed, Gerbera, Italmas and other types from Bryansk, Kursk, Oryol, Millerovo, Primorsko-Akhtarsk and occupied Crimea. Ukraine's Air Force said aircraft, air-defense missile units, electronic warfare teams, unmanned systems units and mobile fire groups destroyed or jammed 138 drones by 08:00. Hits by the Kinzhal and nine UAVs were recorded at seven locations, with debris from downed aerial targets falling at six more sites.",
-    "lat": 49,
-    "lng": 31,
-    "tid": "russia-kinzhal-147-drone-attack-138-destroyed-jammed-ukraine-2026-05-28",
-    "tn": "Multiple regions across Ukraine",
-    "dmg": 45,
-    "cas": 0,
-    "dl": "SIGNIFICANT — Mixed ballistic-missile and drone strike records hits at seven locations despite widespread interceptions",
-    "dc": "dmg-significant",
-    "sources": [
-      {
-        "name": "Ukrainska Pravda",
-        "url": "https://www.pravda.com.ua/eng/news/2026/05/28/8036721/"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attacks-kill-2-injure-23-across-ukraine-over-past-day-as-kherson-strike-devastates-family/"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "time": "reported",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit Russian Nebo-SV radar, Buk-M2 command vehicle, S-350 support vehicle and logistics sites in occupied regions",
-    "detail": "Ukraine's Unmanned Systems Forces reported a series of coordinated strikes in temporarily occupied Luhansk, Donetsk and Zaporizhzhia regions against Russian air-defense and logistics targets. Reported hits included a Nebo-SV radar station in Luhansk Oblast, a Buk-M2 air-defense command-and-staff vehicle, an S-350 Vityaz tractor/support vehicle in Donetsk Oblast, logistics and supply warehouses, temporary deployment points and other logistics facilities. The operation involved the 1st Separate Center, the 414th 'Birds of Magyar' Brigade's 9th Kairos Battalion, the 413th 'Raid' Regiment and the 412th Nemesis Brigade in coordination with the Deep Strike Center.",
-    "lat": 48.574,
-    "lng": 39.3078,
-    "tid": "ukrainian-drones-hit-nebo-sv-buk-m2-s350-logistics-occupied-regions-2026-05-28",
-    "tn": "Occupied Luhansk, Donetsk and Zaporizhzhia regions",
-    "dmg": 60,
-    "cas": 0,
-    "dl": "SIGNIFICANT — Drone strikes target Russian air-defense command, radar and logistics infrastructure across occupied regions",
-    "dc": "dmg-significant",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4127917-ukrainian-drones-strike-nebosv-radar-bukm2-air-defense-command-vehicle-enemy-warehouses.html"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "time": "08:00 update",
-    "side": "russia",
-    "title": "General Staff reports 317 frontline clashes, with 66 Russian assault actions stopped in Pokrovsk sector",
-    "detail": "Ukraine's General Staff reported 317 combat engagements over the previous day, with the Pokrovsk sector remaining the hottest area. Russian forces launched 68 airstrikes using 202 guided aerial bombs, deployed 8,359 kamikaze drones and carried out 2,714 shelling attacks, including 45 using MLRS. Ukrainian defenders said they stopped 66 Russian assault actions in the Pokrovsk sector, 35 attacks in the Huliaipole sector, 15 in the Kostiantynivka sector and additional attacks across the southern Slobozhanshchyna, Kupiansk, Lyman, Sloviansk, Kramatorsk and Orikhiv sectors.",
-    "lat": 48.282,
-    "lng": 37.181,
-    "tid": "general-staff-317-frontline-clashes-pokrovsk-huliaipole-pressure-2026-05-28",
-    "tn": "Pokrovsk and Huliaipole axes, eastern and southern Ukraine",
-    "dmg": 60,
-    "cas": 0,
-    "dl": "SIGNIFICANT — Frontline clash count rises above 300, with Pokrovsk again absorbing the heaviest Russian pressure",
-    "dc": "dmg-significant",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4127989-war-update-317-frontline-clashes-fiercest-fighting-in-pokrovsk-sector.html"
-      }
-    ]
-  },
-  {
-    "date": "2026-05-28",
-    "time": "daytime",
-    "side": "ukraine",
-    "title": "Zelenskyy asks Trump and Congress for Patriot interceptors, calling Russian ballistic missiles Putin's last major battlefield advantage",
-    "detail": "President Volodymyr Zelenskyy sent a letter to U.S. President Donald Trump and Congress seeking urgent help with air-defense systems and interceptor missiles, saying Russia's ballistic missiles remain Vladimir Putin's 'last major advantage on the battlefield.' Zelenskyy said Ukraine was ready to purchase the Patriot systems and interceptors it needs but warned that the NATO PURL delivery pace was not keeping up with the threat. The appeal followed a massive May 24 strike in which Russia used 30 ballistic missiles, only 11 of which were intercepted, and Zelenskyy argued that stronger ballistic-missile defense was essential to forcing Moscow into genuine diplomacy.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "zelenskyy-trump-congress-patriot-interceptors-ballistic-missile-appeal-2026-05-28",
-    "tn": "Kyiv, Ukraine / Washington, DC",
-    "dmg": 20,
-    "cas": 0,
-    "dl": "STRATEGIC — Ukraine links urgent Patriot interceptor supplies to restoring leverage for peace talks",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "CBC News (Reuters)",
-        "url": "https://www.cbc.ca/news/world/ukraine-air-defence-zelenskyy-congress-trump-9.7214184"
-      },
-      {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/may/28/ukraine-war-briefing-eliminate-putins-last-major-advantage-zelenskyy-urges-washington"
-      },
-      {
-        "name": "The Straits Times (Reuters)",
-        "url": "https://www.straitstimes.com/world/europe/zelenskiy-asks-trump-for-air-defences-as-russia-escalates-strike-threats"
       }
     ]
   }
