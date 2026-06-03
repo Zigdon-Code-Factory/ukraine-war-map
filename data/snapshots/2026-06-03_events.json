@@ -5254,13 +5254,13 @@
     "time": "overnight",
     "side": "russia",
     "title": "Russia launches 729-target missile-and-drone assault; Ukraine neutralizes 40 missiles and 602 drones",
-    "detail": "Beginning at 18:00 on June 1, Russia launched one of the largest combined strikes of the full-scale war, firing 73 missiles and 656 drones at Kyiv, Dnipro, Kharkiv, Zaporizhzhia, Poltava region and other areas. Ukraine's Air Force said defenders destroyed or suppressed 642 aerial targets, including 40 missiles and 602 drones, while 30 ballistic missiles, three cruise missiles and 33 attack drones struck 38 locations; by June 2 evening Ukrainian officials reported at least 22 people killed and about 130 injured nationwide.",
+    "detail": "Beginning at 18:00 on June 1, Russia launched a large combined strike against Ukraine using 73 missiles and 656 drones, with Kyiv named as the primary target and Dnipro, Kharkiv, Zaporizhzhia, Poltava region and other areas also hit. Ukraine's Air Force said defenders destroyed or suppressed 642 aerial targets, including 11 Iskander-M ballistic missiles, 26 Kh-101 cruise missiles, three Kalibr cruise missiles and 602 drones, while 30 ballistic missiles, three cruise missiles and 33 attack drones struck 38 locations and debris fell at 15 more sites.",
     "lat": 49.0,
     "lng": 31.0,
     "tid": "russia-729-target-missile-drone-assault-40-missiles-602-drones-neutralized-2026-06-02",
     "tn": "Ukraine nationwide; Kyiv primary target",
     "dmg": 85,
-    "cas": 152,
+    "cas": 13,
     "dl": "SEVERE — Large nationwide combined strike with mass casualties",
     "dc": "dmg-severe",
     "sources": [
@@ -5269,8 +5269,12 @@
         "url": "https://www.ukrinform.net/rubric-ato/4129575-ukraine-downs-40-missiles-602-drones-during-russias-largescale-air-assault.html"
       },
       {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/ukraine-war-latest-russia-unleashes-large-scale-aerial-assault-on-ukraine-leaving-22-dead-130-injured/"
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4129598-kuleba-ten-killed-around-100-injured-in-massive-russian-attack-across-ukraine.html"
+      },
+      {
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4129612-death-toll-in-dnipro-rises-to-nine-after-child-pulled-from-rubble-following-russian-strike.html"
       }
     ]
   },
@@ -5278,20 +5282,20 @@
     "date": "2026-06-02",
     "time": "morning update",
     "side": "russia",
-    "title": "Kyiv death toll rises to six with 90 injured after massive Russian missile-drone attack",
-    "detail": "Kyiv officials said at least six people were killed and 90 injured, including two children, after Russia's June 2 combined missile-and-drone attack on the capital. Mayor Vitalii Klitschko said 52 people remained hospitalized as of the evening, while emergency crews worked across multiple damaged districts after Kyiv bore the brunt of the nationwide barrage.",
+    "title": "Kyiv death toll reaches four with 63 injured after massive Russian missile-drone attack",
+    "detail": "Kyiv City Military Administration head Tymur Tkachenko said four people were killed and 63 injured, including children aged 3, 11 and 17, in Russia's June 2 combined missile-and-drone attack on the capital. Emergency services reported damage and fires across multiple districts after Kyiv was the primary target of the broader nationwide assault.",
     "lat": 50.4501,
     "lng": 30.5234,
     "tid": "russian-missile-drone-attack-kyiv-kills-four-injures-63-2026-06-02",
     "tn": "Kyiv, Ukraine",
     "dmg": 80,
-    "cas": 96,
-    "dl": "SEVERE — Six killed and 90 injured in capital",
+    "cas": 67,
+    "dl": "SEVERE — Four killed and 63 injured in capital",
     "dc": "dmg-severe",
     "sources": [
       {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/ukraine-war-latest-russia-unleashes-large-scale-aerial-assault-on-ukraine-leaving-22-dead-130-injured/"
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4129566-injury-toll-from-russias-massive-attack-on-kyiv-rises-to-63-four-confirmed-dead.html"
       }
     ]
   },
@@ -5299,20 +5303,20 @@
     "date": "2026-06-02",
     "time": "morning update",
     "side": "russia",
-    "title": "Dnipro strike toll rises to 16 killed, including children and rescuer, with 42 injured",
-    "detail": "Dnipropetrovsk regional authorities said Dnipro suffered the heaviest casualties from Russia's June 2 strike: 16 people were killed, including two children and a State Emergency Service rescuer, and 42 were injured. Officials said one child killed in the destroyed four-story apartment building was born in 2023, while Dnipro's mayor accused Russia of using cluster munitions and conducting a double-tap strike against rescuers and utility crews.",
+    "title": "Dnipro apartment strike death toll rises to nine, including child, with 35 injured and six missing",
+    "detail": "Dnipropetrovsk regional authorities said rescuers recovered the body of a child born in 2023 from the rubble of a four-story apartment building destroyed in Russia's overnight strike on Dnipro. Interior Minister Ihor Klymenko later said the Dnipro toll had risen to nine killed, including a rescue worker, with 35 injured and six people still missing.",
     "lat": 48.4647,
     "lng": 35.0462,
     "tid": "russian-strike-dnipro-apartment-building-kills-nine-injures-35-2026-06-02",
     "tn": "Dnipro, Dnipropetrovsk region, Ukraine",
     "dmg": 85,
-    "cas": 58,
-    "dl": "SEVERE — Sixteen killed in Dnipro, including children and rescuer",
+    "cas": 44,
+    "dl": "SEVERE — Apartment building destroyed; nine killed",
     "dc": "dmg-severe",
     "sources": [
       {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/ukraine-war-latest-russia-unleashes-large-scale-aerial-assault-on-ukraine-leaving-22-dead-130-injured/"
+        "name": "Ukrinform",
+        "url": "https://www.ukrinform.net/rubric-ato/4129612-death-toll-in-dnipro-rises-to-nine-after-child-pulled-from-rubble-following-russian-strike.html"
       }
     ]
   },
@@ -5397,119 +5401,6 @@
       {
         "name": "Ukrinform",
         "url": "https://www.ukrinform.net/rubric-ato/4129590-ilsky-oil-refinery-in-russias-krasnodar-region-ablaze-after-drone-attack.html"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "time": "night",
-    "side": "russia",
-    "title": "Russia launches 198-drone overnight barrage; Ukraine neutralizes 189 UAVs",
-    "detail": "Ukraine's Air Force said Russia launched 198 Shahed, Gerbera, Italmas and other attack or decoy drones from Russia and occupied Crimea overnight from 18:00 on June 2. Ukrainian aviation, air-defense, EW, unmanned-systems and mobile fire groups shot down or suppressed 189 UAVs, while eight attack drones hit seven locations and debris from downed drones fell at seven more sites.",
-    "lat": 49.0,
-    "lng": 31.0,
-    "tid": "russia-198-drone-barrage-189-neutralized-2026-06-03",
-    "tn": "Northern, southern and eastern Ukraine",
-    "dmg": 55,
-    "cas": 0,
-    "dl": "SIGNIFICANT — Large overnight drone barrage with impacts at seven locations",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Interfax-Ukraine",
-        "url": "https://en.interfax.com.ua/news/general/1173191.html"
-      },
-      {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/cp3peyykxd5o"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "time": "morning",
-    "side": "ukraine",
-    "title": "Ukrainian drones hit St. Petersburg oil terminal, Kronstadt port targets and Tambov weapons plant",
-    "detail": "President Volodymyr Zelensky and Ukraine's General Staff said Ukrainian forces struck important Russian facilities overnight, including the St. Petersburg Oil Terminal about 1,100 km from Ukraine, ships and infrastructure at Kronstadt port, and the Michurinsky Progress Plant in Tambov Oblast, a producer of precision-weapons components. Smoke and fire were reported at the oil terminal as the St. Petersburg International Economic Forum opened, and Pulkovo airport temporarily restricted flights.",
-    "lat": 59.884,
-    "lng": 30.206,
-    "tid": "ukrainian-drones-hit-st-petersburg-oil-terminal-kronstadt-tambov-2026-06-03",
-    "tn": "St. Petersburg Oil Terminal, Kronstadt and Tambov, Russia",
-    "dmg": 75,
-    "cas": 0,
-    "dl": "HEAVY — Long-range strikes hit oil export, port and weapons-production targets",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/"
-      },
-      {
-        "name": "Reuters via KFGO",
-        "url": "https://kfgo.com/2026/06/03/ukrainian-drones-strike-oil-terminal-in-st-petersburg-as-putins-davos-gets-under-way/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "time": "morning",
-    "side": "russia",
-    "title": "General Staff reports 263 clashes as Huliaipole and Pokrovsk remain hottest axes",
-    "detail": "Ukraine's General Staff reported 263 combat engagements over the previous day, with the most difficult situation in the Huliaipole and Pokrovsk directions. Defenders repelled 44 Russian attacks around Huliaipole and 40 on the Pokrovsk axis, while Russia also launched one missile strike with 73 missiles, 80 airstrikes with 252 guided bombs, 9,735 kamikaze drones and 3,156 shellings.",
-    "lat": 48.15,
-    "lng": 37.35,
-    "tid": "general-staff-263-clashes-huliaipole-pokrovsk-hottest-axes-2026-06-03",
-    "tn": "Pokrovsk and Huliaipole axes, eastern and southern Ukraine",
-    "dmg": 55,
-    "cas": 0,
-    "dl": "SIGNIFICANT — More than 80 Russian assaults repelled on two key axes",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "UNN",
-        "url": "https://unn.ua/en/news/263-combat-engagements-recorded-at-the-front-enemy-launched-the-most-attacks-in-two-directions-general-staff"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "time": "early morning",
-    "side": "ukraine",
-    "title": "Occupation official says drone hit bus near Yenakiieve, killing seven and injuring eleven",
-    "detail": "Denis Pushilin, the Kremlin-installed leader of occupied Donetsk region, said a UAV struck a Moscow-Simferopol passenger coach near Yenakiieve in the early hours of June 3, killing seven civilians and injuring 11. Ukraine had not confirmed responsibility; a Ukrainian disinformation official told the BBC Russia was using such allegations to construct a 'parallel reality' after Russian attacks on Ukrainian civilians.",
-    "lat": 48.2333,
-    "lng": 38.2167,
-    "tid": "yenakiieve-bus-drone-strike-occupation-official-seven-killed-2026-06-03",
-    "tn": "Yenakiieve, occupied Donetsk region, Ukraine",
-    "dmg": 45,
-    "cas": 18,
-    "dl": "MODERATE — Occupation authorities report deadly bus strike; attribution disputed",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/cp3peyykxd5o"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-03",
-    "time": "night",
-    "side": "russia",
-    "title": "Russian drone attack kills elderly woman in Kherson during overnight nationwide barrage",
-    "detail": "Kherson city military administration head Yaroslav Shanko said an 86-year-old woman was killed in an overnight Russian drone attack on Kherson. The casualty came during the wider June 3 Russian UAV barrage, which Ukraine's Air Force said involved 198 drones launched across multiple regions.",
-    "lat": 46.6354,
-    "lng": 32.6169,
-    "tid": "russian-drone-attack-kherson-kills-elderly-woman-2026-06-03",
-    "tn": "Kherson, Ukraine",
-    "dmg": 25,
-    "cas": 1,
-    "dl": "LIGHT — Civilian killed in overnight drone attack",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "BBC",
-        "url": "https://www.bbc.com/news/articles/cp3peyykxd5o"
       }
     ]
   }
