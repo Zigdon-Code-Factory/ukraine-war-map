@@ -5617,158 +5617,20 @@
     "date": "2026-06-04",
     "time": "day",
     "side": "russia",
-    "title": "General Staff reports 224 clashes on June 4 as Russia uses 6,188 drones and 195 guided bombs",
-    "detail": "Ukraine's General Staff said 224 combat engagements took place along the front on June 4. Russian forces conducted 68 airstrikes dropping 195 guided aerial bombs, used 6,188 kamikaze drones and carried out 2,216 shellings; the Pokrovsk axis saw 33 attacks and the Huliaipole axis 27, while Ukrainian forces reported destroying or suppressing 246 UAVs on the Pokrovsk axis alone.",
+    "title": "General Staff reports 215 clashes so far as Russia uses 6,218 drones and 149 guided bombs",
+    "detail": "Ukraine's General Staff said 215 combat engagements had taken place since the start of June 4. Russian forces carried out two missile strikes, 48 airstrikes dropping 149 guided aerial bombs, used 6,218 kamikaze drones and conducted 4,689 shellings; the Pokrovsk and Huliaipole directions each saw 27 Russian attacks, with several battles still ongoing on both axes.",
     "lat": 48.15,
     "lng": 37.35,
-    "tid": "general-staff-224-clashes-6188-drones-195-guided-bombs-2026-06-04",
+    "tid": "general-staff-215-clashes-6218-drones-149-guided-bombs-2026-06-04",
     "tn": "Pokrovsk and Huliaipole axes, eastern and southern Ukraine",
-    "dmg": 58,
+    "dmg": 55,
     "cas": 0,
-    "dl": "SIGNIFICANT — 224 combat engagements and heavy Russian drone/KAB use in one day",
+    "dl": "SIGNIFICANT — More than 200 combat engagements and heavy Russian drone/KAB use in one day",
     "dc": "dmg-moderate",
     "sources": [
       {
         "name": "UNN",
-        "url": "https://unn.ua/en/news/enemy-carried-out-over-220-attacks-and-launched-61-thousand-drones-general-staff-on-the-situation-at-the-front"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-04",
-    "time": "night",
-    "side": "ukraine",
-    "title": "Ukraine hits Russian propellant plant and oil infrastructure in expanded deep-strike campaign",
-    "detail": "ISW cited Ukraine's General Staff as saying Ukrainian forces struck the Elastik propellant-powder plant of Gefest-M in Ryazan Oblast on the night of June 3-4, causing a fire over 400 square meters. The General Staff also reported damage from earlier strikes on the Michurinsk Progress Plant in Tambov Oblast and the St. Petersburg Oil Terminal, while OSINT imagery indicated damage at the Saratov Oil Refinery; ISW assessed the campaign is contributing to Russian fuel shortages and pressure on logistics.",
-    "lat": 54.63,
-    "lng": 39.74,
-    "tid": "ukraine-strikes-ryazan-elastik-st-petersburg-saratov-infrastructure-2026-06-04",
-    "tn": "Ryazan, Tambov, St. Petersburg and Saratov regions, Russia",
-    "dmg": 70,
-    "cas": 0,
-    "dl": "HEAVY — Deep strikes damage Russian propellant and oil infrastructure",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-june-4-2026/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "time": "overnight",
-    "side": "russia",
-    "title": "Russia fires two Kh-59/69 missiles and 216 drones overnight; Ukraine intercepts 198 UAVs",
-    "detail": "Ukraine's Air Force said Russian forces launched two Kh-59/69 guided missiles and 216 Shahed-type and other attack drones overnight on June 4-5. Air defenses intercepted or suppressed 198 UAVs across northern, southern and eastern Ukraine; 16 drones hit targets at 13 locations and debris from intercepted drones fell at 12 more sites, while the guided missiles failed to reach their intended targets.",
-    "lat": 49.0,
-    "lng": 31.0,
-    "tid": "russia-two-kh59-216-drone-overnight-attack-198-intercepted-2026-06-05",
-    "tn": "Northern, southern and eastern Ukraine",
-    "dmg": 60,
-    "cas": 0,
-    "dl": "SIGNIFICANT — 216-drone overnight barrage with impacts at 13 locations",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attacks-kill-8-injure-68-across-ukraine-over-past-day-as-zelensky-proposes-meeting-with-putin-to-end-war/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "time": "morning",
-    "side": "russia",
-    "title": "Russian drone strike on Brovary district food enterprise kills four and injures four",
-    "detail": "Kyiv Oblast Governor Mykola Kalashnyk said a Russian drone struck a civilian food-processing facility in Brovary district while employees were at work, killing four people and injuring four. The strike caused a fire in an administrative building and partial structural collapse; rescuers freed two workers and initially warned that more people could be trapped under rubble.",
-    "lat": 50.5111,
-    "lng": 30.7909,
-    "tid": "russian-drone-strike-brovary-food-enterprise-four-killed-2026-06-05",
-    "tn": "Brovary district, Kyiv Oblast, Ukraine",
-    "dmg": 55,
-    "cas": 8,
-    "dl": "SIGNIFICANT — Civilian food enterprise hit; four killed and four injured",
-    "dc": "dmg-moderate",
-    "sources": [
-      {
-        "name": "United24 Media",
-        "url": "https://united24media.com/war-in-ukraine/russian-drone-strike-on-food-enterprise-in-kyiv-region-kills-four-civilians-injures-four-others-19531"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attacks-kill-8-injure-68-across-ukraine-over-past-day-as-zelensky-proposes-meeting-with-putin-to-end-war/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "time": "past day",
-    "side": "russia",
-    "title": "Russian attacks across Ukraine kill 11 and injure 68, including children in Sumy and Kharkiv oblasts",
-    "detail": "Local authorities reported at least 11 people killed and 68 injured in Russian attacks across Ukraine over the previous day. Beyond the fatal Kyiv Oblast strike, officials reported two killed and 17 injured in Kherson Oblast, two killed and 14 injured in Sumy Oblast including five children, two killed and seven injured in Dnipropetrovsk Oblast, one killed and 19 injured in Zaporizhzhia Oblast, and seven injured in Kharkiv Oblast including two children.",
-    "lat": 48.3794,
-    "lng": 31.1656,
-    "tid": "russian-attacks-across-ukraine-eleven-killed-68-injured-2026-06-05",
-    "tn": "Kyiv, Kherson, Sumy, Dnipropetrovsk, Zaporizhzhia and Kharkiv oblasts, Ukraine",
-    "dmg": 65,
-    "cas": 79,
-    "dl": "HEAVY — At least 11 killed and 68 injured across six Ukrainian regions",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attacks-kill-8-injure-68-across-ukraine-over-past-day-as-zelensky-proposes-meeting-with-putin-to-end-war/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "time": "day",
-    "side": "ukraine",
-    "title": "Ukraine says Unmanned Systems Forces put occupied Donetsk Airport under fire control",
-    "detail": "Ukraine's 1st Separate Center of the Unmanned Systems Forces said it carried out an operation against Russian UAV crews, air-defense units, warehouses and logistics nodes at occupied Donetsk Airport, which Russian forces had turned into a logistics hub and Shahed launch platform. The unit said its drone operators destroyed launchers, transport vehicles, cranes, fuel tankers, supply warehouses and crews on the runway, making the airfield increasingly impossible to operate.",
-    "lat": 48.0736,
-    "lng": 37.7397,
-    "tid": "ukraine-usf-fire-control-donetsk-airport-shahed-hub-2026-06-05",
-    "tn": "Occupied Donetsk Airport, Donetsk Oblast, Ukraine",
-    "dmg": 65,
-    "cas": 0,
-    "dl": "HEAVY — Ukrainian drone forces target occupied airport used as Shahed/logistics hub",
-    "dc": "dmg-heavy",
-    "sources": [
-      {
-        "name": "Ukrinform",
-        "url": "https://www.ukrinform.net/rubric-ato/4130613-usf-strikes-russian-drone-crews-air-defense-units-at-donetsk-airport.html"
-      },
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/first-such-operation-in-modern-history-ukraine-destroys-russias-drone-base-at-occupied-donetsk-airport/"
-      }
-    ]
-  },
-  {
-    "date": "2026-06-05",
-    "time": "day",
-    "side": "ukraine",
-    "title": "Zelensky proposes frontline ceasefire, third-country Putin meeting and all-for-all POW exchange",
-    "detail": "President Volodymyr Zelensky published an open letter to Vladimir Putin proposing an immediate ceasefire along the current frontline, a face-to-face meeting in a third country, U.S.-monitored talks, and an all-for-all prisoner exchange. Zelensky urged Moscow not to prolong the war into 2027 or 2028; Kremlin spokesperson Dmitry Peskov said Putin had not publicly responded and repeated that Zelensky could come to Moscow, a venue Ukraine rejects.",
-    "lat": 50.4501,
-    "lng": 30.5234,
-    "tid": "zelensky-open-letter-putin-frontline-ceasefire-pow-exchange-2026-06-05",
-    "tn": "Kyiv, Ukraine / Moscow, Russia",
-    "dmg": 20,
-    "cas": 0,
-    "dl": "DIPLOMATIC — Ukraine proposes ceasefire, direct talks and all-for-all POW exchange",
-    "dc": "dmg-light",
-    "sources": [
-      {
-        "name": "Kyiv Independent",
-        "url": "https://kyivindependent.com/russian-attacks-kill-8-injure-68-across-ukraine-over-past-day-as-zelensky-proposes-meeting-with-putin-to-end-war/"
-      },
-      {
-        "name": "ISW",
-        "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-june-4-2026/"
+        "url": "https://unn.ua/en/news/the-enemy-carried-out-over-200-attacks-and-launched-62-thousand-drones-general-staff-reports-on-the-situation-at-the-front"
       }
     ]
   }
